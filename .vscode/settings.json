@@ -1,0 +1,12 @@
+{
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "errorLens.onSaveTimeout": 1000,
+  "editor.codeActionsOnSave": ["source.addMissingImports", "source.fixAll.eslint"],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "explorer.compactFolders": false
+}

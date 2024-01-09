@@ -1,0 +1,6 @@
+.dialog_input_root {
+  display: flex;
+  flex-direction: column;
+  max-width: auto;
+  padding-bottom: 10px;
+}

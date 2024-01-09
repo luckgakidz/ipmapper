@@ -1,0 +1,26 @@
+:root {
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    background-color: #292929;
+  }
+}
+
+* {
+}
+
+html,
+body {
+}
+
+body {
+}
+
+a {
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+  }
+}
